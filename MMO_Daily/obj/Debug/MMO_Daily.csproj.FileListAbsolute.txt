@@ -1,0 +1,9 @@
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\MMO_Daily.exe.config
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\MMO_Daily.exe
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\MMO_Daily.pdb
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.csprojAssemblyReference.cache
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.Properties.Resources.resources
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.csproj.GenerateResource.cache
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.exe
+C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.pdb
