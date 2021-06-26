@@ -7,3 +7,17 @@ C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_D
 C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.csproj.CoreCompileInputs.cache
 C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.exe
 C:\Users\Aaron Bradford\Source\Repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.pdb
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.Form1.resources
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\CsvHelper.dll
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.Buffers.dll
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.Memory.dll
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.ValueTuple.dll
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\CsvHelper.xml
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.Buffers.xml
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.Memory.xml
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\bin\Debug\System.ValueTuple.xml
+C:\Users\Aaron Bradford\source\repos\baaron4\MMO_Daily\MMO_Daily\obj\Debug\MMO_Daily.csproj.CopyComplete
